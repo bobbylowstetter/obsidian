@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "61904ff01720b03f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cca9b14b287b3682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54462ccb4e745c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b176a3cfde1aeba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdf614edfadda5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e5b1530902a4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd27ef3cd70999c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bccaee15ba0b1ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37408d67d8306da7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84233af8633f206c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4288956ad64357bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd0765a3d710758",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a1d661b53c9bc15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b63374d2d693b15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d05c5a79842da807",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b176a3cfde1aeba4",
+  "lastOpenFiles": [
+    "Teaching Projects/Computing/Hello World HTML.md",
+    "Teaching Projects/Computing/Google Cloud Curriculum.md",
+    "Professional/Google Cloud/Binding GCP Storage Buckets to a domain.md",
+    "Professional/Google Cloud/Authenticate with GCP for CLI.md",
+    "Professional/Google Cloud/Google Domain Creation and Configuration with GCP.md",
+    "Teaching Projects/Computing",
+    "Professional",
+    "Pasted image 20230301165201.png",
+    "Pasted image 20230301163704.png",
+    "Pasted image 20230301163704.png.md",
+    "resources",
+    "resources/Pasted image 20230301163704.png",
+    "domains.google.com.md",
+    "Professional/Kubernetes/Modifying the Kubernetes configuration file for aliases.md",
+    "Professional/Kubernetes/Ryan (The Google Rep's) Kubernetes aliases in .rc file.md",
+    "Kubernetes/Nice to haves",
+    "Professional/Kubernetes/Navigating Kubernetes.md",
+    "Teaching Projects",
+    "Pasted image 20230301145143.png",
+    "Professional/Google Cloud",
+    "Professional/Marathon",
+    "Professional/Kubernetes"
+  ]
+}
