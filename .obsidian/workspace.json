@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b176a3cfde1aeba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b176a3cfde1aeba4",
+  "active": "fd27ef3cd70999c7",
   "lastOpenFiles": [
-    "Teaching Projects/Computing/Hello World HTML.md",
     "Teaching Projects/Computing/Google Cloud Curriculum.md",
+    "2023-03-01.md",
+    "Teaching Projects/Computing/Hello World HTML.md",
     "Professional/Google Cloud/Binding GCP Storage Buckets to a domain.md",
     "Professional/Google Cloud/Authenticate with GCP for CLI.md",
     "Professional/Google Cloud/Google Domain Creation and Configuration with GCP.md",
