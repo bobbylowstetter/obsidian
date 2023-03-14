@@ -1,0 +1,6 @@
+- Pull the latest of: `git@github.com:Banno/banno-data-one-off-scripts.git`
+- Run `postgres-connect connect --role ops --name <hostname> [--env environment] -d <database> -f <filename>`
+	- The info typically can be found in the PR
+- Examples: 
+	- `postgres-connect connect --role ops --name postgres-curry0-lks.production-2.banno-internal.com -d forms -f "sql/curry/forms/update-form.sql"`
+	- ```robertlowstetter@R6VFT21N6J:~/builds/banno-data-one-off-scripts  [zelle-blue-testing ≡]$ postgres-connect connect --role ops --name postgres-jabberwocky --env UAT  -d jx_configs -f "zelle-blue-testing.sql"```

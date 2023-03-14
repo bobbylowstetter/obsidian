@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cca9b14b287b3682",
+        "id": "dd82a420384b9ccc",
         "type": "tabs",
         "children": [
           {
-            "id": "54462ccb4e745c81",
+            "id": "77342646bda69320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaching Projects/Computing/Google Cloud Curriculum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -142,30 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd27ef3cd70999c7",
+  "active": "77342646bda69320",
   "lastOpenFiles": [
+    "Professional/Kubernetes/Editing a configuration.md",
+    "Professional/Kubernetes/Deploying Configuration Changes.md",
+    "Professional/Mac Commands/Changing from ARM architecture to AMD-64.md",
+    "Professional/Postgres/Running SQL Scripts.md",
+    "Professional/Mac Commands",
+    "Professional/Kubernetes/Scaling up and down and Deleting Apps.md",
+    "Professional/Marathon/Creating a canary and redirecting traffic.md",
+    "Pasted image 20230301163704.png",
     "Teaching Projects/Computing/Google Cloud Curriculum.md",
+    "Professional/Jack Henry Company Information/Important Numbers.md",
+    "Professional/Jack Henry Company Information",
+    "Professional/Kubernetes/Navigating Kubernetes.md",
+    "Professional/Kubernetes/Modifying the Kubernetes configuration file for aliases.md",
+    "Professional/Google Cloud/Google Domain Creation and Configuration with GCP.md",
+    "Professional/Kubernetes/Ryan (The Google Rep's) Kubernetes aliases in .rc file.md",
+    "Professional/Postgres",
     "2023-03-01.md",
     "Teaching Projects/Computing/Hello World HTML.md",
     "Professional/Google Cloud/Binding GCP Storage Buckets to a domain.md",
     "Professional/Google Cloud/Authenticate with GCP for CLI.md",
-    "Professional/Google Cloud/Google Domain Creation and Configuration with GCP.md",
     "Teaching Projects/Computing",
     "Professional",
     "Pasted image 20230301165201.png",
-    "Pasted image 20230301163704.png",
     "Pasted image 20230301163704.png.md",
     "resources",
     "resources/Pasted image 20230301163704.png",
     "domains.google.com.md",
-    "Professional/Kubernetes/Modifying the Kubernetes configuration file for aliases.md",
-    "Professional/Kubernetes/Ryan (The Google Rep's) Kubernetes aliases in .rc file.md",
     "Kubernetes/Nice to haves",
-    "Professional/Kubernetes/Navigating Kubernetes.md",
     "Teaching Projects",
     "Pasted image 20230301145143.png",
     "Professional/Google Cloud",
-    "Professional/Marathon",
-    "Professional/Kubernetes"
+    "Professional/Marathon"
   ]
 }

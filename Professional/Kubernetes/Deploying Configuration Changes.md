@@ -1,0 +1,2 @@
+- `scripts/deploy-kubernetes-apps-to-production.sh -c -v 0.409.0 -n mirai go-ach-for-cus kubernetes/mirai/go-ach-for-cus` 
+	- The important piece here is the `-c`
