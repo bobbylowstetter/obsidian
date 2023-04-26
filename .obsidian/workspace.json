@@ -11,11 +11,40 @@
             "id": "77342646bda69320",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Professional/Kubernetes/Editing a configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9271a88b8e6b8a68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professional/Kubernetes/Editing a configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "170627340aad6036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Professional/Kubernetes/Restarting all Pods.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Professional/Kubernetes/Restarting all Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Professional/Kubernetes/Restarting all Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Professional/Kubernetes/Restarting all Pods.md"
+              }
             }
           }
         ]
@@ -138,26 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77342646bda69320",
+  "active": "170627340aad6036",
   "lastOpenFiles": [
+    "Professional/Kubernetes/Scaling up and down and Deleting Apps.md",
     "Professional/Kubernetes/Editing a configuration.md",
+    "Professional/Kubernetes/Modifying the Kubernetes configuration file for aliases.md",
+    "Professional/Kubernetes/Restarting all Pods.md",
+    "Professional/Kubernetes/Navigating Kubernetes.md",
+    "Teaching Projects/Computing/Terraform and Google Cloud (GCP) lab.md",
+    "Teaching Projects/Computing/Google Cloud Curriculum.md",
+    "Teaching Projects/Computing/Hello World HTML.md",
     "Professional/Kubernetes/Deploying Configuration Changes.md",
     "Professional/Mac Commands/Changing from ARM architecture to AMD-64.md",
     "Professional/Postgres/Running SQL Scripts.md",
     "Professional/Mac Commands",
-    "Professional/Kubernetes/Scaling up and down and Deleting Apps.md",
     "Professional/Marathon/Creating a canary and redirecting traffic.md",
     "Pasted image 20230301163704.png",
-    "Teaching Projects/Computing/Google Cloud Curriculum.md",
     "Professional/Jack Henry Company Information/Important Numbers.md",
     "Professional/Jack Henry Company Information",
-    "Professional/Kubernetes/Navigating Kubernetes.md",
-    "Professional/Kubernetes/Modifying the Kubernetes configuration file for aliases.md",
     "Professional/Google Cloud/Google Domain Creation and Configuration with GCP.md",
     "Professional/Kubernetes/Ryan (The Google Rep's) Kubernetes aliases in .rc file.md",
     "Professional/Postgres",
     "2023-03-01.md",
-    "Teaching Projects/Computing/Hello World HTML.md",
     "Professional/Google Cloud/Binding GCP Storage Buckets to a domain.md",
     "Professional/Google Cloud/Authenticate with GCP for CLI.md",
     "Teaching Projects/Computing",

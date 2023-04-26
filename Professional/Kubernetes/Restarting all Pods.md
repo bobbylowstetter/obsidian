@@ -1,0 +1,1 @@
+`kubectl rollout restart --context ENV-centralus-aks -n NAMESPACE deployment NAMEOFPODS`
