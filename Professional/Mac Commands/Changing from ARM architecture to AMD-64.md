@@ -1,1 +1,1 @@
-`env /usr/bin/arch -x86_64 /bin/zsh —-login`
+`env /usr/bin/arch -x86_64 /bin/zsh`

@@ -1,0 +1,14 @@
+- Go to api.slack.com
+- Click on `create new app`
+-  Pick which type of app you are creating
+- Click on `incoming webhooks`
+- Enable `Activate Incoming Webhooks`
+	- This will generate a nice sample curl request for sending a message which is lovely! 
+	- `curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' YOUR_WEBHOOK_URL_HERE`
+- Click `Add New Webhook to Workspace`
+- Pick the channel you want your bot to post at and click `allow`
+- Webhooks will be created here for use. This is how you select what channels will get posts
+	- This is what will be integrated with GitHub Actions
+- Go to `OAuth and Permissions`
+	- Scroll down to scopes and add `chat:write`. Make sure not to accidentally get `calls:write`
+- Install the bot! Make sure to add it to channels after the bot is installed.
